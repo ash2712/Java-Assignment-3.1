@@ -1,0 +1,12 @@
+public class MyClass{// class name
+	public static void main(String s[]){
+			print(10);//calls print method
+}
+
+	static void print (int x) {
+		System.out.println (x);//prints value 'x'
+		System.exit(0);
+}
+}
+	
+	
